@@ -1,0 +1,13 @@
+venv/
+
+*.pyc
+__pycache__/
+
+.idea/
+.vs/
+
+logs/
+*.ini
+*.iml
+
+script.py.mako
