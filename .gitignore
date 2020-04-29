@@ -11,5 +11,6 @@ logs/
 *.iml
 *.vscode/
 *.json
+*.pot
 
 script.py.mako
